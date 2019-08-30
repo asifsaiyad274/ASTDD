@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="calculator.StringCalculatorSpec" tests="1" skipped="0" failures="1" errors="0" timestamp="2019-07-29T13:22:17" hostname="ATLANTISPC-655" time="0.0">
+<testsuite name="calculator.StringCalculatorSpec" tests="1" skipped="0" failures="1" errors="0" timestamp="2019-07-31T08:15:54" hostname="ATLANTISPC-684" time="0.0">
   <properties/>
   <testcase name="initializationError" classname="calculator.StringCalculatorSpec" time="0.0">
     <failure message="java.lang.NoClassDefFoundError: org.junit.runner.Runner" type="java.lang.NoClassDefFoundError">java.lang.NoClassDefFoundError: org.junit.runner.Runner
